@@ -75,7 +75,7 @@ async function init() {
                 await update();
                 if (Settings.autoUpdateNotification)
                     setTimeout(() => showNotification({
-                        title: "Vencord has been updated!",
+                        title: "Pusicord has been updated!",
                         body: "Click here to restart",
                         permanent: true,
                         noPersist: true,
@@ -86,7 +86,7 @@ async function init() {
 
             if (Settings.notifyAboutUpdates)
                 setTimeout(() => showNotification({
-                    title: "A Vencord update is available!",
+                    title: "A Pusicord update is available!",
                     body: "Click here to view the update",
                     permanent: true,
                     noPersist: true,
