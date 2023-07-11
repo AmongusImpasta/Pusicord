@@ -1,8 +1,8 @@
 {
-    "name": "vencord",
+    "name": "pusicord",
     "private": "true",
     "version": "1.3.4",
-    "description": "The cutest Discord client mod",
+    "description": "the sillest discord mod - forked from vencord",
     "homepage": "https://github.com/Vendicated/Vencord#readme",
     "bugs": {
         "url": "https://github.com/Vendicated/Vencord/issues"
@@ -12,7 +12,7 @@
         "url": "git+https://github.com/Vendicated/Vencord.git"
     },
     "license": "GPL-3.0",
-    "author": "Vendicated",
+    "author": "Mafaker6969420420",
     "directories": {
         "doc": "docs"
     },
